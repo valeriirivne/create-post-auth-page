@@ -7,3 +7,4 @@ In this project I migrated from the XAMMP to docker container (ourmainapp)!!!
     -   Query OK, 1 row affected (0.000 sec)
 
 To run this app you need `php run dev`
+on github I called this app: `create-post-auth-page` (https://github.com/valeriirivne/create-post-auth-page)
