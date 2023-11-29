@@ -1,4 +1,4 @@
-In this project I migrated from the XAMMP Apache distribution to docker platform (ourmainapp -the name of database inside my local computer)!!!
+In this project I migrated from the XAMMP Apache distribution to docker platform (ourlaravelapp -the name of database inside my local computer)!!!
 
 -   docker pull mysql
 -   docker-compose up -d
